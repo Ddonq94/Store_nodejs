@@ -2,7 +2,7 @@
 
 This is just a simple nodejs RESTful api for managing products
 
-with filtering, sorting etc
+with CRUD, filtering, sorting etc built in
 
 In the project directory, you can run:
 
